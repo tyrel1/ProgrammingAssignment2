@@ -1,6 +1,5 @@
 ## Below are two functions that are used to create a special object that stores a matrix and cache's its inverse
  
-
  
 ##creates a special matrix, which is really a list containing a function to
 ##set the value of the matrix
